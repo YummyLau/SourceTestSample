@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <yummylau.sourcetest.touch.Linearlayout1
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_red_dark"
+        android:padding="50dp">
+
+        <yummylau.sourcetest.touch.Linearlayout2
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/holo_green_dark"
+            android:padding="50dp">
+
+            <yummylau.sourcetest.touch.View3
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/black"
+                />
+
+        </yummylau.sourcetest.touch.Linearlayout2>
+
+
+    </yummylau.sourcetest.touch.Linearlayout1>
+
+</RelativeLayout>

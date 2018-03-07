@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SourceTest</string>
+
+    <string name="touch_test_str">View 事件传递测试</string>
+</resources>
